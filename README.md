@@ -1,47 +1,29 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>D3L README FILE</title>
-  </head>
+[D3L](https://github.com/neonlb/D3L)  by [neonlb](https://github.com/neonlb)
 
-  <body class="logged_in page-blob windows vis-public env-production ">
+Welcome to the D3L wiki (neonlb/D3L @ GitHub)!
 
-        <p><a href="https://github.com/neonlb/D3L" rel="nofollow">D3L</a>  by <a href="https://github.com/neonlb" rel="nofollow">neonlb</a></p>
+D3 Library is a library for my c++ programming on Linux or Unix platform.
 
-        <p>Welcome to the D3L wiki (neonlb/D3L @ GitHub)!</p>
+You should know the following items before you download it:
+## License
+Code License
+## Authors
+NeonLB  
+## Contact
+evimacsl@gmail.com
 
-        <p>D3 Library is a library for my c++ programming on Linux or Unix platform.</p>
+## Download
+You can download this project in either [zip](https://github.com/neonlb/D3L/zipball/master) or [tar](https://github.com/neonlb/D3L/tarball/master) formats.
 
-        <p>You should know the following items before you download it:</p>
+You can also clone the project with [Git](http://git-scm.com) by running:
+$ git clone git://github.com/neonlb/D3L
 
-        <h2>License</h2>
+[![Fork me on GitHub](http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png)](https://github.com/neonlb/D3L)
+[![Download ZIP](https://github.com/images/modules/download/zip.png)](https://github.com/neonlb/D3L/zipball/master)
+[![Download TAR](https://github.com/images/modules/download/tar.png)](https://github.com/neonlb/D3L/tarball/master)
 
-        <p>Code License</p>
+You can get function documents from:[http://neonlb.github.com/D3L/](http://neonlb.github.com/D3L/)
 
-        <h2>Authors</h2>
+_get the source code on GitHub : [neonlb/D3L](https://github.com/neonlb/D3L)_
 
-        <p>NeonLB  </p>
-
-        <h2>Contact</h2>
-
-        <p><a href="mailto:evimacsl@gmail.com" rel="nofollow">evimacsl@gmail.com</a></p>
-
-        <h2>Download</h2>
-
-        <p>You can download this project in either <a href="https://github.com/neonlb/D3L/zipball/master" rel="nofollow">zip</a> or <a href="https://github.com/neonlb/D3L/tarball/master" rel="nofollow">tar</a> formats.</p>
-
-        <p>You can also clone the project with <a href="http://git-scm.com" rel="nofollow">Git</a> by running:
-        $ git clone git://github.com/neonlb/D3L</p>
-
-        <p><a href="https://github.com/neonlb/D3L" rel="nofollow"><img src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
-        <a href="https://github.com/neonlb/D3L/zipball/master" rel="nofollow"><img src="https://github.com/images/modules/download/zip.png" alt="Download ZIP"></a>
-        <a href="https://github.com/neonlb/D3L/tarball/master" rel="nofollow"><img src="https://github.com/images/modules/download/tar.png" alt="Download TAR"></a></p>
-
-        <p>You can get function documents from:<a href="http://neonlb.github.com/D3L/" rel="nofollow"></a><a href="http://neonlb.github.com/D3L/" rel="nofollow">http://neonlb.github.com/D3L/</a></p>
-
-        <p><em>get the source code on GitHub : <a href="https://github.com/neonlb/D3L" rel="nofollow">neonlb/D3L</a></em></p>
-
-  </body>
-</html>
-
+ 
